@@ -1,0 +1,797 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "exp_long2x/fold_0.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "fc6c36191c651d3afd90070bcfe4acd0b5c007a7e54e07eb9c2589cc2ae3a8d0",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_long2x/fold_0.pt.part000",
+          "bytes": 97876855,
+          "sha256": "fc6c36191c651d3afd90070bcfe4acd0b5c007a7e54e07eb9c2589cc2ae3a8d0"
+        }
+      ],
+      "fold": 0,
+      "arm": "exp_long2x"
+    },
+    {
+      "path": "exp_long2x/fold_1.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "9d156ca86a596420237bb2fe04af9bd481f893d537249086dae487cd41baa3a2",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_long2x/fold_1.pt.part000",
+          "bytes": 97876855,
+          "sha256": "9d156ca86a596420237bb2fe04af9bd481f893d537249086dae487cd41baa3a2"
+        }
+      ],
+      "fold": 1,
+      "arm": "exp_long2x"
+    },
+    {
+      "path": "exp_long2x/fold_2.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "8bf4d92b3a49ae72070098207d815d396ce7e435a5c63692945ab0a4b88abfe8",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_long2x/fold_2.pt.part000",
+          "bytes": 97876855,
+          "sha256": "8bf4d92b3a49ae72070098207d815d396ce7e435a5c63692945ab0a4b88abfe8"
+        }
+      ],
+      "fold": 2,
+      "arm": "exp_long2x"
+    },
+    {
+      "path": "exp_long2x/fold_3.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "7dcbce197b696cd8c7eb8f5717488493467aa91bff276d098d4e193ef597dfe4",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_long2x/fold_3.pt.part000",
+          "bytes": 97876855,
+          "sha256": "7dcbce197b696cd8c7eb8f5717488493467aa91bff276d098d4e193ef597dfe4"
+        }
+      ],
+      "fold": 3,
+      "arm": "exp_long2x"
+    },
+    {
+      "path": "exp_long2x/fold_4.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "bdc979620f7f80db87d569afdaabd51d2d53539b59950f9e28e9d8116284bab5",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_long2x/fold_4.pt.part000",
+          "bytes": 97876855,
+          "sha256": "bdc979620f7f80db87d569afdaabd51d2d53539b59950f9e28e9d8116284bab5"
+        }
+      ],
+      "fold": 4,
+      "arm": "exp_long2x"
+    },
+    {
+      "path": "exp_s05/fold_0.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "deba982b0d2ecc341211a3702932ec8f739eba9afafcccb8928ddb2a8e376ff4",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_s05/fold_0.pt.part000",
+          "bytes": 97876855,
+          "sha256": "deba982b0d2ecc341211a3702932ec8f739eba9afafcccb8928ddb2a8e376ff4"
+        }
+      ],
+      "fold": 0,
+      "arm": "exp_s05"
+    },
+    {
+      "path": "exp_s05/fold_1.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "3c2e36f39e33a2c5f5e659267af3c707b8dc55340cbf9ad828a35a113dcb6d19",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_s05/fold_1.pt.part000",
+          "bytes": 97876855,
+          "sha256": "3c2e36f39e33a2c5f5e659267af3c707b8dc55340cbf9ad828a35a113dcb6d19"
+        }
+      ],
+      "fold": 1,
+      "arm": "exp_s05"
+    },
+    {
+      "path": "exp_s05/fold_2.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "862f8ebb66875746750b40358f9fa4ae94bc0ddd417366dd1d3691ece4223e39",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_s05/fold_2.pt.part000",
+          "bytes": 97876855,
+          "sha256": "862f8ebb66875746750b40358f9fa4ae94bc0ddd417366dd1d3691ece4223e39"
+        }
+      ],
+      "fold": 2,
+      "arm": "exp_s05"
+    },
+    {
+      "path": "exp_s05/fold_3.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "15f9d149b45f9cecd19000c01fcdd72ff2792df83719b4a7090fa55dd203def5",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_s05/fold_3.pt.part000",
+          "bytes": 97876855,
+          "sha256": "15f9d149b45f9cecd19000c01fcdd72ff2792df83719b4a7090fa55dd203def5"
+        }
+      ],
+      "fold": 3,
+      "arm": "exp_s05"
+    },
+    {
+      "path": "exp_s05/fold_4.pt",
+      "kind": "dense",
+      "bytes": 97876855,
+      "sha256": "507be0e530cea2fda200dba92079cb800db3363d2336a276b8b0376d50b1e2f3",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/exp_s05/fold_4.pt.part000",
+          "bytes": 97876855,
+          "sha256": "507be0e530cea2fda200dba92079cb800db3363d2336a276b8b0376d50b1e2f3"
+        }
+      ],
+      "fold": 4,
+      "arm": "exp_s05"
+    },
+    {
+      "path": "exp_cnx_dino_gong_ft/fold_0.pt",
+      "kind": "dense",
+      "bytes": 214519479,
+      "sha256": "9f7ba3a118cbe792f2fd936c93a1d97ae95f976064b4739e8911206971f9578d",
+      "license": "DINOv3 agreement",
+      "parts": [
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_0.pt.part000",
+          "bytes": 99614720,
+          "sha256": "f7cadc94b5b776e83e5515ba4ce3a9e7abdbe286630b7c3be30bbaa25d720f0f"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_0.pt.part001",
+          "bytes": 99614720,
+          "sha256": "c24513129238e7365567d58c6d122a075744b8e6ebe15a0f35782b8c550d2e61"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_0.pt.part002",
+          "bytes": 15290039,
+          "sha256": "c9cb54bd75dd0841379dc6209f51f6cda5ee6ad565eab411b9c6f2cbad899f2d"
+        }
+      ],
+      "fold": 0,
+      "arm": "exp_cnx_dino_gong_ft"
+    },
+    {
+      "path": "exp_cnx_dino_gong_ft/fold_1.pt",
+      "kind": "dense",
+      "bytes": 214519479,
+      "sha256": "7297eb4c8bcb8e05a015bb288a2f66fe50a41b9424c9e95bf89da008a13cc72c",
+      "license": "DINOv3 agreement",
+      "parts": [
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_1.pt.part000",
+          "bytes": 99614720,
+          "sha256": "be7ab20a4af7999cc54cf2f6cec89fcbc85b706c94147b5d7d916376705344d7"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_1.pt.part001",
+          "bytes": 99614720,
+          "sha256": "dc4c8fbd4f8367193c6f3e30d38cc652dcb61a1f408cbd23fb9702efbef53394"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_1.pt.part002",
+          "bytes": 15290039,
+          "sha256": "0d69d53e7b48afcbd1bd8c19a8678751209041c1d538abf9508628e285c27bf8"
+        }
+      ],
+      "fold": 1,
+      "arm": "exp_cnx_dino_gong_ft"
+    },
+    {
+      "path": "exp_cnx_dino_gong_ft/fold_2.pt",
+      "kind": "dense",
+      "bytes": 214519479,
+      "sha256": "58accd04a32baeb11f3a795934ab39f44d60c21854ebe2c7e099e8e328ce728b",
+      "license": "DINOv3 agreement",
+      "parts": [
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_2.pt.part000",
+          "bytes": 99614720,
+          "sha256": "461249fe1630e2ab188f1a4da6198625fb0669c1750da30b397c55a53a1153c6"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_2.pt.part001",
+          "bytes": 99614720,
+          "sha256": "9f3e33940f9d31d14dab89b937a7104c1ee5a55791407b0781a4d3857e730a92"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_2.pt.part002",
+          "bytes": 15290039,
+          "sha256": "74a0a488484aa1503d2677d5ac553403b906dd4ebac080f375f96db5db15b828"
+        }
+      ],
+      "fold": 2,
+      "arm": "exp_cnx_dino_gong_ft"
+    },
+    {
+      "path": "exp_cnx_dino_gong_ft/fold_3.pt",
+      "kind": "dense",
+      "bytes": 214519479,
+      "sha256": "6a369f5126ccf4b2308af0f6d13de1b82b283cf3f952d9db9ecd54950feb7c80",
+      "license": "DINOv3 agreement",
+      "parts": [
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_3.pt.part000",
+          "bytes": 99614720,
+          "sha256": "26727a9dac91bbdde86d2c20bd0e75ecde2aec1617cbc57055d92f30d590ebf3"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_3.pt.part001",
+          "bytes": 99614720,
+          "sha256": "58b8619505d994f9fc9fef5a8d0ecdf8f4b11c88791d10b9e829db907ff1fae6"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_3.pt.part002",
+          "bytes": 15290039,
+          "sha256": "b082d92de270013547bfb37c5cbdb8c01167944f75f476a6700070c643c1bd36"
+        }
+      ],
+      "fold": 3,
+      "arm": "exp_cnx_dino_gong_ft"
+    },
+    {
+      "path": "exp_cnx_dino_gong_ft/fold_4.pt",
+      "kind": "dense",
+      "bytes": 214519479,
+      "sha256": "830010d83b5223c4535f98740219599a0e3f9d194df9976e61f136436213a9f0",
+      "license": "DINOv3 agreement",
+      "parts": [
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_4.pt.part000",
+          "bytes": 99614720,
+          "sha256": "3ad420de2d4850a70fd3ee524afba0e18c0f322688392ea605551201d1d05d72"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_4.pt.part001",
+          "bytes": 99614720,
+          "sha256": "63a9d945705a1c004b80fc1a4e66eac00e341235f6fd0bb9401f0155c8776876"
+        },
+        {
+          "path": "weights/exp_cnx_dino_gong_ft/fold_4.pt.part002",
+          "bytes": 15290039,
+          "sha256": "b2cff21729e9427d5c753adf1b6c24b6964fd263e7f10658fc9cb9d6a290e226"
+        }
+      ],
+      "fold": 4,
+      "arm": "exp_cnx_dino_gong_ft"
+    },
+    {
+      "path": "rf_support/fold0.pt",
+      "kind": "rf_support",
+      "bytes": 133173683,
+      "sha256": "83440b5b19fe5c91480b996eec17c890f36d38d45dfceedc275d8f437b70e058",
+      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "parts": [
+        {
+          "path": "weights/rf_support/fold0.pt.part000",
+          "bytes": 99614720,
+          "sha256": "d8918744ff8cf6c67e46f102b0a58b5648baa72c8622f35c0025f430a3341623"
+        },
+        {
+          "path": "weights/rf_support/fold0.pt.part001",
+          "bytes": 33558963,
+          "sha256": "36ac1f8c240513f3559765335be77557dd950128592fffacef4790909021a375"
+        }
+      ],
+      "fold": 0
+    },
+    {
+      "path": "temporal_fit/prior_outer_0.pkl",
+      "kind": "rf_scorer",
+      "bytes": 886788,
+      "sha256": "453f776a8ae5b3c4fa95a45f216e3b30098c1819e04b0863ecc08f24b1de17ba",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/prior_outer_0.pkl.part000",
+          "bytes": 886788,
+          "sha256": "453f776a8ae5b3c4fa95a45f216e3b30098c1819e04b0863ecc08f24b1de17ba"
+        }
+      ],
+      "fold": 0
+    },
+    {
+      "path": "temporal_fit/rank_0.pkl",
+      "kind": "rf_scorer",
+      "bytes": 732974,
+      "sha256": "8791698e4755dfd92693c07d6bbde0137df6c5bba99f76dbfcdf1d68010831e2",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/rank_0.pkl.part000",
+          "bytes": 732974,
+          "sha256": "8791698e4755dfd92693c07d6bbde0137df6c5bba99f76dbfcdf1d68010831e2"
+        }
+      ],
+      "fold": 0
+    },
+    {
+      "path": "temporal_fit/member0_fold0.pkl",
+      "kind": "rf_scorer",
+      "bytes": 3176423,
+      "sha256": "9821cb16a0e1c22c85bc03018d2929bbe435b8e37836a36d6fadae2a610b8226",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/member0_fold0.pkl.part000",
+          "bytes": 3176423,
+          "sha256": "9821cb16a0e1c22c85bc03018d2929bbe435b8e37836a36d6fadae2a610b8226"
+        }
+      ],
+      "fold": 0
+    },
+    {
+      "path": "temporal_fit_drop/models_0.pkl",
+      "kind": "rf_drop",
+      "bytes": 2347223,
+      "sha256": "868fd41f8468a67a00a061ce31855d1188145d4e4519f1d5cecd2fbd4a3dc780",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit_drop/models_0.pkl.part000",
+          "bytes": 2347223,
+          "sha256": "868fd41f8468a67a00a061ce31855d1188145d4e4519f1d5cecd2fbd4a3dc780"
+        }
+      ],
+      "fold": 0
+    },
+    {
+      "path": "refiner_r34/fold0.pt",
+      "kind": "refiner_r34",
+      "bytes": 104524475,
+      "sha256": "89313b8605e13d9a1793ae9624e9c4aac2555fb421bcd8edede7432b7d9816c4",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/refiner_r34/fold0.pt.part000",
+          "bytes": 99614720,
+          "sha256": "420e01286aed6fc60cd14fe5d82c1843767291e9b56cfbec9dec9673b3ef04ee"
+        },
+        {
+          "path": "weights/refiner_r34/fold0.pt.part001",
+          "bytes": 4909755,
+          "sha256": "de0b4046cd5937a0a36b7b213aa6b910672e82bce1c02b300bb7af4eea0567d3"
+        }
+      ],
+      "fold": 0
+    },
+    {
+      "path": "rf_support/fold1.pt",
+      "kind": "rf_support",
+      "bytes": 133173683,
+      "sha256": "8c75cf6be231e72d3a748a9fd8b7bf8900a565b6cb5dfe78c8337d5e34cd4790",
+      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "parts": [
+        {
+          "path": "weights/rf_support/fold1.pt.part000",
+          "bytes": 99614720,
+          "sha256": "538e33516432a2484b9d8ad57c419bfc99072660ed87498be025891a5720a24d"
+        },
+        {
+          "path": "weights/rf_support/fold1.pt.part001",
+          "bytes": 33558963,
+          "sha256": "8be56241a0acbc58821d52fd16c4c173609f523db42f8d9ee0e044c16b4be318"
+        }
+      ],
+      "fold": 1
+    },
+    {
+      "path": "temporal_fit/prior_outer_1.pkl",
+      "kind": "rf_scorer",
+      "bytes": 886660,
+      "sha256": "023ddc4af0789db2a1cf8bd47b96231d89d99e9f587f42cdc55cd84269ad58a3",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/prior_outer_1.pkl.part000",
+          "bytes": 886660,
+          "sha256": "023ddc4af0789db2a1cf8bd47b96231d89d99e9f587f42cdc55cd84269ad58a3"
+        }
+      ],
+      "fold": 1
+    },
+    {
+      "path": "temporal_fit/rank_1.pkl",
+      "kind": "rf_scorer",
+      "bytes": 733172,
+      "sha256": "94a6ac9548eb1568e932abd0b29399ab4202065cc48bc99f3f3a30ada5e62828",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/rank_1.pkl.part000",
+          "bytes": 733172,
+          "sha256": "94a6ac9548eb1568e932abd0b29399ab4202065cc48bc99f3f3a30ada5e62828"
+        }
+      ],
+      "fold": 1
+    },
+    {
+      "path": "temporal_fit/member0_fold1.pkl",
+      "kind": "rf_scorer",
+      "bytes": 3174800,
+      "sha256": "9550c04a244885c68b0b11e1654426f158f80ea294c49a5d167e47981289a642",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/member0_fold1.pkl.part000",
+          "bytes": 3174800,
+          "sha256": "9550c04a244885c68b0b11e1654426f158f80ea294c49a5d167e47981289a642"
+        }
+      ],
+      "fold": 1
+    },
+    {
+      "path": "temporal_fit_drop/models_1.pkl",
+      "kind": "rf_drop",
+      "bytes": 2337752,
+      "sha256": "2d549a2abebb42654048f238e4245800954cf26448148539c4ab1761902d2f03",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit_drop/models_1.pkl.part000",
+          "bytes": 2337752,
+          "sha256": "2d549a2abebb42654048f238e4245800954cf26448148539c4ab1761902d2f03"
+        }
+      ],
+      "fold": 1
+    },
+    {
+      "path": "refiner_r34/fold1.pt",
+      "kind": "refiner_r34",
+      "bytes": 104524475,
+      "sha256": "7b1c5d5c1cb38c6a595cc5e99eccc5e6b0fb8fde5cc12b8655c418d83a428e00",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/refiner_r34/fold1.pt.part000",
+          "bytes": 99614720,
+          "sha256": "01fdd38b0fbd89733e60460dbf1d1e9b53d8dfde86469b1165b20ed8120134df"
+        },
+        {
+          "path": "weights/refiner_r34/fold1.pt.part001",
+          "bytes": 4909755,
+          "sha256": "86f06340a97ad12d5457d5c87d1f3d0bd105b94c935dfe79207ae74160e77a86"
+        }
+      ],
+      "fold": 1
+    },
+    {
+      "path": "rf_support/fold2.pt",
+      "kind": "rf_support",
+      "bytes": 133173683,
+      "sha256": "1410c71a73b4317627a93acac734a2a8260b952af271f0f2ebbda8990882e9d3",
+      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "parts": [
+        {
+          "path": "weights/rf_support/fold2.pt.part000",
+          "bytes": 99614720,
+          "sha256": "873161b9b6ea75e63a07389f9089a3fea1cce17fc4ac475eae1cf8ee72e26fb8"
+        },
+        {
+          "path": "weights/rf_support/fold2.pt.part001",
+          "bytes": 33558963,
+          "sha256": "ec08abfe25b5cf5247f163adfe13ce4189475108d769189f5d7f9359a8d42471"
+        }
+      ],
+      "fold": 2
+    },
+    {
+      "path": "temporal_fit/prior_outer_2.pkl",
+      "kind": "rf_scorer",
+      "bytes": 886460,
+      "sha256": "add7f824ba7a310db87f60cce67513206bdaff5168a71b72bdca29c009ad9921",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/prior_outer_2.pkl.part000",
+          "bytes": 886460,
+          "sha256": "add7f824ba7a310db87f60cce67513206bdaff5168a71b72bdca29c009ad9921"
+        }
+      ],
+      "fold": 2
+    },
+    {
+      "path": "temporal_fit/rank_2.pkl",
+      "kind": "rf_scorer",
+      "bytes": 733429,
+      "sha256": "c41c1e8159303d90089ffeb35eaf2167aad252277e67d6ed75ad91e1b05e5024",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/rank_2.pkl.part000",
+          "bytes": 733429,
+          "sha256": "c41c1e8159303d90089ffeb35eaf2167aad252277e67d6ed75ad91e1b05e5024"
+        }
+      ],
+      "fold": 2
+    },
+    {
+      "path": "temporal_fit/member0_fold2.pkl",
+      "kind": "rf_scorer",
+      "bytes": 3174722,
+      "sha256": "b1b03fbb7d057b5d312fbc1b3071d3ac3f6f9abd332ed478dd538e4df7f1cc84",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/member0_fold2.pkl.part000",
+          "bytes": 3174722,
+          "sha256": "b1b03fbb7d057b5d312fbc1b3071d3ac3f6f9abd332ed478dd538e4df7f1cc84"
+        }
+      ],
+      "fold": 2
+    },
+    {
+      "path": "temporal_fit_drop/models_2.pkl",
+      "kind": "rf_drop",
+      "bytes": 2344129,
+      "sha256": "32eeeb728b9e3d7fdc748b1f727bc7bdc0d7284a84d0bee409d9b9b3b34ab121",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit_drop/models_2.pkl.part000",
+          "bytes": 2344129,
+          "sha256": "32eeeb728b9e3d7fdc748b1f727bc7bdc0d7284a84d0bee409d9b9b3b34ab121"
+        }
+      ],
+      "fold": 2
+    },
+    {
+      "path": "refiner_r34/fold2.pt",
+      "kind": "refiner_r34",
+      "bytes": 104524475,
+      "sha256": "4fe4845ac00020d84c194aed78d75b04d6eebfb60b784b06d0546f99457a58ed",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/refiner_r34/fold2.pt.part000",
+          "bytes": 99614720,
+          "sha256": "9df96760e6f845a0700bcb845897a74361ca9ee9cc85cc63d03c85e481477d97"
+        },
+        {
+          "path": "weights/refiner_r34/fold2.pt.part001",
+          "bytes": 4909755,
+          "sha256": "c1de88a11f8b41a805e48d6fd16dc1c6129370c089dc1626b946994208b74cf5"
+        }
+      ],
+      "fold": 2
+    },
+    {
+      "path": "rf_support/fold3.pt",
+      "kind": "rf_support",
+      "bytes": 133173683,
+      "sha256": "cf771bb1ee2fb2768974747886f495eebc39cf29e3ef9a2b5db0174026ac8b9c",
+      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "parts": [
+        {
+          "path": "weights/rf_support/fold3.pt.part000",
+          "bytes": 99614720,
+          "sha256": "8882b16599b87d4bdb24d60b075f9a745e9a27e03037a77fbdcc01704dc7a1c3"
+        },
+        {
+          "path": "weights/rf_support/fold3.pt.part001",
+          "bytes": 33558963,
+          "sha256": "fe0449992dccdaafa3c0f3b18435670729e00068aaedf9a7fc92763c397d184c"
+        }
+      ],
+      "fold": 3
+    },
+    {
+      "path": "temporal_fit/prior_outer_3.pkl",
+      "kind": "rf_scorer",
+      "bytes": 886847,
+      "sha256": "9d1705209de4c36b93fa0fd9d52feb9e45f39a17688df9297b3c9b24c0717661",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/prior_outer_3.pkl.part000",
+          "bytes": 886847,
+          "sha256": "9d1705209de4c36b93fa0fd9d52feb9e45f39a17688df9297b3c9b24c0717661"
+        }
+      ],
+      "fold": 3
+    },
+    {
+      "path": "temporal_fit/rank_3.pkl",
+      "kind": "rf_scorer",
+      "bytes": 733140,
+      "sha256": "9342b0df9a0318b3e74cc5c712af6cc463b09d2a0338c1dd566c7d55cbb858b7",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/rank_3.pkl.part000",
+          "bytes": 733140,
+          "sha256": "9342b0df9a0318b3e74cc5c712af6cc463b09d2a0338c1dd566c7d55cbb858b7"
+        }
+      ],
+      "fold": 3
+    },
+    {
+      "path": "temporal_fit/member0_fold3.pkl",
+      "kind": "rf_scorer",
+      "bytes": 3178225,
+      "sha256": "3a3d5d08ec4adb2c8864176da09dfb1de72ba22e36e4b88502dd79f34ae09c4f",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/member0_fold3.pkl.part000",
+          "bytes": 3178225,
+          "sha256": "3a3d5d08ec4adb2c8864176da09dfb1de72ba22e36e4b88502dd79f34ae09c4f"
+        }
+      ],
+      "fold": 3
+    },
+    {
+      "path": "temporal_fit_drop/models_3.pkl",
+      "kind": "rf_drop",
+      "bytes": 1876511,
+      "sha256": "51840f0009582cf593e0816100729524c9b29198de459987e4f9bc4e33f867d1",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit_drop/models_3.pkl.part000",
+          "bytes": 1876511,
+          "sha256": "51840f0009582cf593e0816100729524c9b29198de459987e4f9bc4e33f867d1"
+        }
+      ],
+      "fold": 3
+    },
+    {
+      "path": "refiner_r34/fold3.pt",
+      "kind": "refiner_r34",
+      "bytes": 104524475,
+      "sha256": "a20238bf83f01eea77ba6c1f2cc8fddc3f53f518148fc287478671e8d7addfb2",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/refiner_r34/fold3.pt.part000",
+          "bytes": 99614720,
+          "sha256": "a690731890173041a7e35936a831cd75b8ec605ced5beec7453954697f4c76eb"
+        },
+        {
+          "path": "weights/refiner_r34/fold3.pt.part001",
+          "bytes": 4909755,
+          "sha256": "293b17342e951274156747ca7c8decc5aad5562534ee6bd8ff4add90d2b63008"
+        }
+      ],
+      "fold": 3
+    },
+    {
+      "path": "rf_support/fold4.pt",
+      "kind": "rf_support",
+      "bytes": 133173683,
+      "sha256": "e613572f8d3e61f0dfecf062ccb5dcb07187e39030d71229d32fe43981a4cf66",
+      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "parts": [
+        {
+          "path": "weights/rf_support/fold4.pt.part000",
+          "bytes": 99614720,
+          "sha256": "f2e5a5c9460dc8161cd7b50a2d5215f7055f108da5970f5adb5d2f8c34815104"
+        },
+        {
+          "path": "weights/rf_support/fold4.pt.part001",
+          "bytes": 33558963,
+          "sha256": "010aa79ddf6df50408e2bc8ef757a4d41a7e31926003c8db8a2d8ba1b750d678"
+        }
+      ],
+      "fold": 4
+    },
+    {
+      "path": "temporal_fit/prior_outer_4.pkl",
+      "kind": "rf_scorer",
+      "bytes": 886729,
+      "sha256": "2bbac83266d9dd1d2a618ea796ac09c87e6372308254aa2526f5f0abc9158566",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/prior_outer_4.pkl.part000",
+          "bytes": 886729,
+          "sha256": "2bbac83266d9dd1d2a618ea796ac09c87e6372308254aa2526f5f0abc9158566"
+        }
+      ],
+      "fold": 4
+    },
+    {
+      "path": "temporal_fit/rank_4.pkl",
+      "kind": "rf_scorer",
+      "bytes": 733693,
+      "sha256": "ab4cdda5cfaed85a3c5595cf72e5f927eeb98b15215bdfef6b2b49905b76b5db",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/rank_4.pkl.part000",
+          "bytes": 733693,
+          "sha256": "ab4cdda5cfaed85a3c5595cf72e5f927eeb98b15215bdfef6b2b49905b76b5db"
+        }
+      ],
+      "fold": 4
+    },
+    {
+      "path": "temporal_fit/member0_fold4.pkl",
+      "kind": "rf_scorer",
+      "bytes": 3175603,
+      "sha256": "325052c894e6261a024f7faad09f666a78fa56fa54bea492286ce719591f33a1",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit/member0_fold4.pkl.part000",
+          "bytes": 3175603,
+          "sha256": "325052c894e6261a024f7faad09f666a78fa56fa54bea492286ce719591f33a1"
+        }
+      ],
+      "fold": 4
+    },
+    {
+      "path": "temporal_fit_drop/models_4.pkl",
+      "kind": "rf_drop",
+      "bytes": 2340877,
+      "sha256": "da8daea334adb4ee61053711604a8002560ea1bcc6c718289dac79683f78771c",
+      "license": "Original trained LightGBM; owner approval pending",
+      "parts": [
+        {
+          "path": "weights/temporal_fit_drop/models_4.pkl.part000",
+          "bytes": 2340877,
+          "sha256": "da8daea334adb4ee61053711604a8002560ea1bcc6c718289dac79683f78771c"
+        }
+      ],
+      "fold": 4
+    },
+    {
+      "path": "refiner_r34/fold4.pt",
+      "kind": "refiner_r34",
+      "bytes": 104524475,
+      "sha256": "ac69b698d212a2096dfc9ea4f86f6567d47e1a1a7898a6644f57e90daebe613e",
+      "license": "ImageNet pretrained redistribution terms require review",
+      "parts": [
+        {
+          "path": "weights/refiner_r34/fold4.pt.part000",
+          "bytes": 99614720,
+          "sha256": "a6c2e4ddfa184f74a98415381123c3a39a1b4e21262d186dd4d58a34d2592fe5"
+        },
+        {
+          "path": "weights/refiner_r34/fold4.pt.part001",
+          "bytes": 4909755,
+          "sha256": "b55658479126db40ac9f7ce28271988f8dd9192d7555ae843f97c3321a8f62b8"
+        }
+      ],
+      "fold": 4
+    }
+  ],
+  "total_bytes": 3275082892,
+  "shard_limit_bytes": 99614720
+}

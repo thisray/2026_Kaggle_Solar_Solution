@@ -1,0 +1,9 @@
+name: solar_solution_rf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - libgomp
+  - pip:
+    - -r requirements.txt

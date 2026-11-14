@@ -1,0 +1,21 @@
+{
+  "batch": 4,
+  "crop": 768,
+  "iterations": 5680,
+  "pilot_seconds_per_iteration": 0.36850496666666005,
+  "pilot_images_per_second": 10.854670525019804,
+  "equivalent_epochs": 40.21238938053097,
+  "minutes_budget": 90,
+  "pilot_warmup_iterations": 10,
+  "pilot_measured_iterations": 30,
+  "peak_cuda_bytes": 7211205120,
+  "seed": 261008,
+  "folds_sha256": "02eea85375b6e0d216a0fc7b88c0e6d6229c94f82d0dfa0e744c84c707d6bce0",
+  "metric_sha256": "c28e8603a149517dda2c3739567305ab880e808e7f3168d9c50e205a68d9aa8e",
+  "evaluation_identity": "EV1",
+  "encoder": "resnet34",
+  "precision": "fp32",
+  "amp": false,
+  "torch": "2.12.1+cu126",
+  "source_commit": "fad0bc7fe042adabbabbc050afe6eb54b97c8530"
+}
