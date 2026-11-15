@@ -12,13 +12,13 @@
     },
     {
       "path": "MODEL_CARD.md",
-      "bytes": 2507,
-      "sha256": "8f8d7ef12590421639dabb44b111278ca3974bc1d1486a4c4a826105aca357aa"
+      "bytes": 2914,
+      "sha256": "2535655dec66cb079aabfc230d3f0d5c6cf9058d2884fc0cb3a34aaf93e34fc5"
     },
     {
       "path": "README.md",
-      "bytes": 5265,
-      "sha256": "06612c57da59af192f8c63cea5e6ba1da32487e2f711bcd9ff04a013225f1540"
+      "bytes": 8425,
+      "sha256": "0e3f09d3c3fb7aff0580e9f4f0e77a57f7481b7c2e32493fed04a2fca8f56e8c"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -39,6 +39,11 @@
       "path": "configs/rf.json",
       "bytes": 2621,
       "sha256": "a63294e01ceb2980c0118c8616e000d40ff16ab6f84a9742aa1bb402abff3eba"
+    },
+    {
+      "path": "configs/rf_r34_tta.json",
+      "bytes": 2843,
+      "sha256": "c695cf6c96de489bf10611f91bdf5b6e9a5198465cd6119c824051e6bfb100d5"
     },
     {
       "path": "configs/rf_refiner_avg.json",
@@ -97,8 +102,8 @@
     },
     {
       "path": "notebooks/pipeline.ipynb",
-      "bytes": 4670,
-      "sha256": "46d95c90e4a5a960d896e33e096e2bcd68927773714c686050443813cedb2e9d"
+      "bytes": 4881,
+      "sha256": "1a8ba34b7ef98566f3706a4da79731493067ba32bbc75f6ef3feec476065b5d2"
     },
     {
       "path": "requirements.txt",
@@ -151,6 +156,11 @@
       "sha256": "552defd3fc415a75bb64fc84900e6f9a3ed05ec8eb791f3e2f9bafbfc3748edc"
     },
     {
+      "path": "scripts/release_restricted_entry.py",
+      "bytes": 1898,
+      "sha256": "7bfb9fe0df6b2250946ced837c97ac023a9d58da60e1867fe9a598448795237b"
+    },
+    {
       "path": "scripts/rf_descriptors.py",
       "bytes": 1014,
       "sha256": "38ef25d104b21770eeb75036e7cf62eec1072cfb7e184a83ad9f696f66d71cad"
@@ -179,6 +189,11 @@
       "path": "scripts/train_rf_components.py",
       "bytes": 8168,
       "sha256": "9db2c037828f564d27acc1087a0300c91084a7852be9db9ec872886cf5656c38"
+    },
+    {
+      "path": "scripts/w1_infer.py",
+      "bytes": 3818,
+      "sha256": "dc3b17512c2737e98a848df7f697633784e47bf733f1f186ca8812b8c4a553b9"
     },
     {
       "path": "src/solar/__init__.py",
