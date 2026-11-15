@@ -164,7 +164,7 @@ def score_stage(a,images):
     actions.FEATURES=features;actions.POLICY=policy
     base.TABLES={s:f for s,f in table.groupby('stem',sort=False)}
     models=[load(a.models/f'temporal_fit_drop/models_{f}.pkl') for f in range(5)]
-    predictions={}
+    predictions={};retained_scores={}
     for stem in images:
         drop.SPATIAL.clear();state=actions.initial(stem)
         if state:
@@ -176,6 +176,8 @@ def score_stage(a,images):
             base.TABLES[stem]=original
             state=[v for v,keep in zip(state,np.mean(gains,axis=0)<=.15) if keep]
         predictions[stem]=[v['rle'] for v in state]
+        retained_scores[stem]=[float(v['score']) for v in state]
+    save(a.cache/'rf_scores.pkl',retained_scores)
     save(a.cache/'rf_predictions.pkl',predictions)
     emit(predictions,a.output)
 
@@ -222,6 +224,7 @@ def refiner_stage(a,images):
             q=((left+right)/2).astype(np.float16).astype(np.float32)
         else:q=means['refiner_r34'][stem]
         result[stem],_=project(q,matrices,scales,seeds[stem],.4)
+        save(a.cache/'w6_refiner'/f'{stem}.pkl',(q,matrices,scales))
     save(a.cache/(a.final+'_predictions.pkl'),result);emit(result,a.output)
     if a.final in ('rf_refiner_r34','rf_refiner_r34_defrag'):emit(result,a.cache/'r34.csv')
     if a.final=='rf_refiner_r34_defrag':

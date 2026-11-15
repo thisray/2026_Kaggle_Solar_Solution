@@ -15,9 +15,11 @@ Upstream references:
 
 ## DINOv3
 
-The `exp_cnx_dino_gong_ft` checkpoints derive from the `timm/convnext_small.dinov3_lvd1689m` pretrained model at revision `9a0c319ae4531d36df6ef11fc253fdc4b503628a`. The full DINOv3 agreement is included verbatim at `licenses/DINOv3-LICENSE.md`. It grants rights to distribute derivative works under the agreement, requires a copy of the agreement to accompany distributed DINO materials and derivatives, and requires acknowledgment when publishing research performed using DINO materials. Retain that license file with any redistribution of these checkpoints. These trained checkpoints are additionally limited to non-commercial research by the training-data terms below.
+The `exp_cnx_dino_gong_ft` and five added G_ctrl dense checkpoints derive from the `timm/convnext_small.dinov3_lvd1689m` pretrained model at revision `9a0c319ae4531d36df6ef11fc253fdc4b503628a`. The full DINOv3 agreement is included verbatim at `licenses/DINOv3-LICENSE.md`. It grants rights to distribute derivative works under the agreement, requires a copy of the agreement to accompany distributed DINO materials and derivatives, and requires acknowledgment when publishing research performed using DINO materials. Retain that license file with any redistribution of these checkpoints. These trained checkpoints are additionally limited to non-commercial research by the training-data terms below.
 
 Pretrained source: [revision-pinned timm model license](https://huggingface.co/timm/convnext_small.dinov3_lvd1689m/resolve/9a0c319ae4531d36df6ef11fc253fdc4b503628a/LICENSE.md).
+
+G_ctrl uses the same ConvNeXt-small DINOv3 pretrained source and agreement as the existing dense producer. Its temporal LightGBM scorer and drop fits are project-trained models; LightGBM code remains under MIT. The same non-commercial training-data limitation applies.
 
 ## ResNet34 and ImageNet initialization
 

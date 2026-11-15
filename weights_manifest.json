@@ -6,7 +6,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "fc6c36191c651d3afd90070bcfe4acd0b5c007a7e54e07eb9c2589cc2ae3a8d0",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_long2x/fold_0.pt.part000",
@@ -22,7 +22,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "9d156ca86a596420237bb2fe04af9bd481f893d537249086dae487cd41baa3a2",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_long2x/fold_1.pt.part000",
@@ -38,7 +38,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "8bf4d92b3a49ae72070098207d815d396ce7e435a5c63692945ab0a4b88abfe8",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_long2x/fold_2.pt.part000",
@@ -54,7 +54,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "7dcbce197b696cd8c7eb8f5717488493467aa91bff276d098d4e193ef597dfe4",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_long2x/fold_3.pt.part000",
@@ -70,7 +70,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "bdc979620f7f80db87d569afdaabd51d2d53539b59950f9e28e9d8116284bab5",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_long2x/fold_4.pt.part000",
@@ -86,7 +86,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "deba982b0d2ecc341211a3702932ec8f739eba9afafcccb8928ddb2a8e376ff4",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_s05/fold_0.pt.part000",
@@ -102,7 +102,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "3c2e36f39e33a2c5f5e659267af3c707b8dc55340cbf9ad828a35a113dcb6d19",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_s05/fold_1.pt.part000",
@@ -118,7 +118,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "862f8ebb66875746750b40358f9fa4ae94bc0ddd417366dd1d3691ece4223e39",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_s05/fold_2.pt.part000",
@@ -134,7 +134,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "15f9d149b45f9cecd19000c01fcdd72ff2792df83719b4a7090fa55dd203def5",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_s05/fold_3.pt.part000",
@@ -150,7 +150,7 @@
       "kind": "dense",
       "bytes": 97876855,
       "sha256": "507be0e530cea2fda200dba92079cb800db3363d2336a276b8b0376d50b1e2f3",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/exp_s05/fold_4.pt.part000",
@@ -166,7 +166,7 @@
       "kind": "dense",
       "bytes": 214519479,
       "sha256": "9f7ba3a118cbe792f2fd936c93a1d97ae95f976064b4739e8911206971f9578d",
-      "license": "DINOv3 agreement",
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
       "parts": [
         {
           "path": "weights/exp_cnx_dino_gong_ft/fold_0.pt.part000",
@@ -192,7 +192,7 @@
       "kind": "dense",
       "bytes": 214519479,
       "sha256": "7297eb4c8bcb8e05a015bb288a2f66fe50a41b9424c9e95bf89da008a13cc72c",
-      "license": "DINOv3 agreement",
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
       "parts": [
         {
           "path": "weights/exp_cnx_dino_gong_ft/fold_1.pt.part000",
@@ -218,7 +218,7 @@
       "kind": "dense",
       "bytes": 214519479,
       "sha256": "58accd04a32baeb11f3a795934ab39f44d60c21854ebe2c7e099e8e328ce728b",
-      "license": "DINOv3 agreement",
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
       "parts": [
         {
           "path": "weights/exp_cnx_dino_gong_ft/fold_2.pt.part000",
@@ -244,7 +244,7 @@
       "kind": "dense",
       "bytes": 214519479,
       "sha256": "6a369f5126ccf4b2308af0f6d13de1b82b283cf3f952d9db9ecd54950feb7c80",
-      "license": "DINOv3 agreement",
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
       "parts": [
         {
           "path": "weights/exp_cnx_dino_gong_ft/fold_3.pt.part000",
@@ -270,7 +270,7 @@
       "kind": "dense",
       "bytes": 214519479,
       "sha256": "830010d83b5223c4535f98740219599a0e3f9d194df9976e61f136436213a9f0",
-      "license": "DINOv3 agreement",
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
       "parts": [
         {
           "path": "weights/exp_cnx_dino_gong_ft/fold_4.pt.part000",
@@ -296,7 +296,7 @@
       "kind": "rf_support",
       "bytes": 133173683,
       "sha256": "83440b5b19fe5c91480b996eec17c890f36d38d45dfceedc275d8f437b70e058",
-      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "license": "RF-DETR Apache-2.0; non-commercial research training-data terms; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/rf_support/fold0.pt.part000",
@@ -316,7 +316,7 @@
       "kind": "rf_scorer",
       "bytes": 886788,
       "sha256": "453f776a8ae5b3c4fa95a45f216e3b30098c1819e04b0863ecc08f24b1de17ba",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/prior_outer_0.pkl.part000",
@@ -331,7 +331,7 @@
       "kind": "rf_scorer",
       "bytes": 732974,
       "sha256": "8791698e4755dfd92693c07d6bbde0137df6c5bba99f76dbfcdf1d68010831e2",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/rank_0.pkl.part000",
@@ -346,7 +346,7 @@
       "kind": "rf_scorer",
       "bytes": 3176423,
       "sha256": "9821cb16a0e1c22c85bc03018d2929bbe435b8e37836a36d6fadae2a610b8226",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/member0_fold0.pkl.part000",
@@ -361,7 +361,7 @@
       "kind": "rf_drop",
       "bytes": 2347223,
       "sha256": "868fd41f8468a67a00a061ce31855d1188145d4e4519f1d5cecd2fbd4a3dc780",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit_drop/models_0.pkl.part000",
@@ -376,7 +376,7 @@
       "kind": "refiner_r34",
       "bytes": 104524475,
       "sha256": "89313b8605e13d9a1793ae9624e9c4aac2555fb421bcd8edede7432b7d9816c4",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/refiner_r34/fold0.pt.part000",
@@ -396,7 +396,7 @@
       "kind": "rf_support",
       "bytes": 133173683,
       "sha256": "8c75cf6be231e72d3a748a9fd8b7bf8900a565b6cb5dfe78c8337d5e34cd4790",
-      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "license": "RF-DETR Apache-2.0; non-commercial research training-data terms; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/rf_support/fold1.pt.part000",
@@ -416,7 +416,7 @@
       "kind": "rf_scorer",
       "bytes": 886660,
       "sha256": "023ddc4af0789db2a1cf8bd47b96231d89d99e9f587f42cdc55cd84269ad58a3",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/prior_outer_1.pkl.part000",
@@ -431,7 +431,7 @@
       "kind": "rf_scorer",
       "bytes": 733172,
       "sha256": "94a6ac9548eb1568e932abd0b29399ab4202065cc48bc99f3f3a30ada5e62828",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/rank_1.pkl.part000",
@@ -446,7 +446,7 @@
       "kind": "rf_scorer",
       "bytes": 3174800,
       "sha256": "9550c04a244885c68b0b11e1654426f158f80ea294c49a5d167e47981289a642",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/member0_fold1.pkl.part000",
@@ -461,7 +461,7 @@
       "kind": "rf_drop",
       "bytes": 2337752,
       "sha256": "2d549a2abebb42654048f238e4245800954cf26448148539c4ab1761902d2f03",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit_drop/models_1.pkl.part000",
@@ -476,7 +476,7 @@
       "kind": "refiner_r34",
       "bytes": 104524475,
       "sha256": "7b1c5d5c1cb38c6a595cc5e99eccc5e6b0fb8fde5cc12b8655c418d83a428e00",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/refiner_r34/fold1.pt.part000",
@@ -496,7 +496,7 @@
       "kind": "rf_support",
       "bytes": 133173683,
       "sha256": "1410c71a73b4317627a93acac734a2a8260b952af271f0f2ebbda8990882e9d3",
-      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "license": "RF-DETR Apache-2.0; non-commercial research training-data terms; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/rf_support/fold2.pt.part000",
@@ -516,7 +516,7 @@
       "kind": "rf_scorer",
       "bytes": 886460,
       "sha256": "add7f824ba7a310db87f60cce67513206bdaff5168a71b72bdca29c009ad9921",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/prior_outer_2.pkl.part000",
@@ -531,7 +531,7 @@
       "kind": "rf_scorer",
       "bytes": 733429,
       "sha256": "c41c1e8159303d90089ffeb35eaf2167aad252277e67d6ed75ad91e1b05e5024",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/rank_2.pkl.part000",
@@ -546,7 +546,7 @@
       "kind": "rf_scorer",
       "bytes": 3174722,
       "sha256": "b1b03fbb7d057b5d312fbc1b3071d3ac3f6f9abd332ed478dd538e4df7f1cc84",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/member0_fold2.pkl.part000",
@@ -561,7 +561,7 @@
       "kind": "rf_drop",
       "bytes": 2344129,
       "sha256": "32eeeb728b9e3d7fdc748b1f727bc7bdc0d7284a84d0bee409d9b9b3b34ab121",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit_drop/models_2.pkl.part000",
@@ -576,7 +576,7 @@
       "kind": "refiner_r34",
       "bytes": 104524475,
       "sha256": "4fe4845ac00020d84c194aed78d75b04d6eebfb60b784b06d0546f99457a58ed",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/refiner_r34/fold2.pt.part000",
@@ -596,7 +596,7 @@
       "kind": "rf_support",
       "bytes": 133173683,
       "sha256": "cf771bb1ee2fb2768974747886f495eebc39cf29e3ef9a2b5db0174026ac8b9c",
-      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "license": "RF-DETR Apache-2.0; non-commercial research training-data terms; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/rf_support/fold3.pt.part000",
@@ -616,7 +616,7 @@
       "kind": "rf_scorer",
       "bytes": 886847,
       "sha256": "9d1705209de4c36b93fa0fd9d52feb9e45f39a17688df9297b3c9b24c0717661",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/prior_outer_3.pkl.part000",
@@ -631,7 +631,7 @@
       "kind": "rf_scorer",
       "bytes": 733140,
       "sha256": "9342b0df9a0318b3e74cc5c712af6cc463b09d2a0338c1dd566c7d55cbb858b7",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/rank_3.pkl.part000",
@@ -646,7 +646,7 @@
       "kind": "rf_scorer",
       "bytes": 3178225,
       "sha256": "3a3d5d08ec4adb2c8864176da09dfb1de72ba22e36e4b88502dd79f34ae09c4f",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/member0_fold3.pkl.part000",
@@ -661,7 +661,7 @@
       "kind": "rf_drop",
       "bytes": 1876511,
       "sha256": "51840f0009582cf593e0816100729524c9b29198de459987e4f9bc4e33f867d1",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit_drop/models_3.pkl.part000",
@@ -676,7 +676,7 @@
       "kind": "refiner_r34",
       "bytes": 104524475,
       "sha256": "a20238bf83f01eea77ba6c1f2cc8fddc3f53f518148fc287478671e8d7addfb2",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/refiner_r34/fold3.pt.part000",
@@ -696,7 +696,7 @@
       "kind": "rf_support",
       "bytes": 133173683,
       "sha256": "e613572f8d3e61f0dfecf062ccb5dcb07187e39030d71229d32fe43981a4cf66",
-      "license": "RF-DETR Apache-2.0; pretrained/model redistribution review pending",
+      "license": "RF-DETR Apache-2.0; non-commercial research training-data terms; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/rf_support/fold4.pt.part000",
@@ -716,7 +716,7 @@
       "kind": "rf_scorer",
       "bytes": 886729,
       "sha256": "2bbac83266d9dd1d2a618ea796ac09c87e6372308254aa2526f5f0abc9158566",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/prior_outer_4.pkl.part000",
@@ -731,7 +731,7 @@
       "kind": "rf_scorer",
       "bytes": 733693,
       "sha256": "ab4cdda5cfaed85a3c5595cf72e5f927eeb98b15215bdfef6b2b49905b76b5db",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/rank_4.pkl.part000",
@@ -746,7 +746,7 @@
       "kind": "rf_scorer",
       "bytes": 3175603,
       "sha256": "325052c894e6261a024f7faad09f666a78fa56fa54bea492286ce719591f33a1",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit/member0_fold4.pkl.part000",
@@ -761,7 +761,7 @@
       "kind": "rf_drop",
       "bytes": 2340877,
       "sha256": "da8daea334adb4ee61053711604a8002560ea1bcc6c718289dac79683f78771c",
-      "license": "Original trained LightGBM; owner approval pending",
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/temporal_fit_drop/models_4.pkl.part000",
@@ -776,7 +776,7 @@
       "kind": "refiner_r34",
       "bytes": 104524475,
       "sha256": "ac69b698d212a2096dfc9ea4f86f6567d47e1a1a7898a6644f57e90daebe613e",
-      "license": "ImageNet pretrained redistribution terms require review",
+      "license": "ImageNet initialization; non-commercial research; see THIRD_PARTY_NOTICES.md",
       "parts": [
         {
           "path": "weights/refiner_r34/fold4.pt.part000",
@@ -790,8 +790,438 @@
         }
       ],
       "fold": 4
+    },
+    {
+      "path": "gctrl/fold0.pt",
+      "kind": "gctrl_dense",
+      "fold": 0,
+      "bytes": 214500123,
+      "sha256": "968b080b8d6721ed82075c5973bc676a912ec709765b4b394a98d73d832ef3c0",
+      "parts": [
+        {
+          "path": "weights/gctrl/fold0.pt.part000",
+          "bytes": 99614720,
+          "sha256": "e8e508fb4ef1f58a0317d31acce9e94d20e90025745cb1cf9002ddb6900a7ce3"
+        },
+        {
+          "path": "weights/gctrl/fold0.pt.part001",
+          "bytes": 99614720,
+          "sha256": "1d5386377a2216545df9253ea9db2cce9bcfcbdd73e9c9228266945903950337"
+        },
+        {
+          "path": "weights/gctrl/fold0.pt.part002",
+          "bytes": 15270683,
+          "sha256": "70027834bb6cc349b5af46899cdb567cfb4ab2e118ef6349244542adedb6105d"
+        }
+      ],
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
+      "arm": "gctrl"
+    },
+    {
+      "path": "gctrl_temporal_fit/prior_outer_0.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 0,
+      "bytes": 886245,
+      "sha256": "1e11d5f2d42bcf1401eb33672409b177e06e864e10f9d97035af73c445645d52",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/prior_outer_0.pkl.part000",
+          "bytes": 886245,
+          "sha256": "1e11d5f2d42bcf1401eb33672409b177e06e864e10f9d97035af73c445645d52"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/rank_0.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 0,
+      "bytes": 732508,
+      "sha256": "f4ca7848959236e7e3edcb3abd71bb7e85c8a162e534b5772efb3295a36e44ed",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/rank_0.pkl.part000",
+          "bytes": 732508,
+          "sha256": "f4ca7848959236e7e3edcb3abd71bb7e85c8a162e534b5772efb3295a36e44ed"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/member0_fold0.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 0,
+      "bytes": 3175423,
+      "sha256": "07df3f4f5fbb78b96159e94fdd13e899e1221ec6d6839dfaad83578b1a039a7a",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/member0_fold0.pkl.part000",
+          "bytes": 3175423,
+          "sha256": "07df3f4f5fbb78b96159e94fdd13e899e1221ec6d6839dfaad83578b1a039a7a"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit_drop/models_0.pkl",
+      "kind": "gctrl_drop",
+      "fold": 0,
+      "bytes": 2337945,
+      "sha256": "8d53cd4b95a93332370494904c87c807ac23e00bd487691b79d160f7ade6d794",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit_drop/models_0.pkl.part000",
+          "bytes": 2337945,
+          "sha256": "8d53cd4b95a93332370494904c87c807ac23e00bd487691b79d160f7ade6d794"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl/fold1.pt",
+      "kind": "gctrl_dense",
+      "fold": 1,
+      "bytes": 214500123,
+      "sha256": "54a9c36703a3604050b092432ab35a2bdba9f6f4703c878386555ae160c8798d",
+      "parts": [
+        {
+          "path": "weights/gctrl/fold1.pt.part000",
+          "bytes": 99614720,
+          "sha256": "9010e134febcf41d972e1f1b82f780f1310a136658375c15e75b1e45fffd35f4"
+        },
+        {
+          "path": "weights/gctrl/fold1.pt.part001",
+          "bytes": 99614720,
+          "sha256": "708936cc058ad032ff54ac79a2f203923cf2f2a03d0ba342d65ba868a73e8993"
+        },
+        {
+          "path": "weights/gctrl/fold1.pt.part002",
+          "bytes": 15270683,
+          "sha256": "a8c082bcf634a26875b4230f08a5358103c988b0b1e045dc4f21e81ba3fe55d7"
+        }
+      ],
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
+      "arm": "gctrl"
+    },
+    {
+      "path": "gctrl_temporal_fit/prior_outer_1.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 1,
+      "bytes": 886534,
+      "sha256": "99c9fe2d1d0a2b8a3e38a44b82c6303c53d42aaac7252ce9dc6935d455c69bd6",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/prior_outer_1.pkl.part000",
+          "bytes": 886534,
+          "sha256": "99c9fe2d1d0a2b8a3e38a44b82c6303c53d42aaac7252ce9dc6935d455c69bd6"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/rank_1.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 1,
+      "bytes": 733438,
+      "sha256": "4712df881ad38ed7e26ac4d658a23180378fbc10f96b25a45b840203b893e0e7",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/rank_1.pkl.part000",
+          "bytes": 733438,
+          "sha256": "4712df881ad38ed7e26ac4d658a23180378fbc10f96b25a45b840203b893e0e7"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/member0_fold1.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 1,
+      "bytes": 3174289,
+      "sha256": "00a531ec30985e6663288812ea56d41462c16099995f0d29b8195e39001dc22f",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/member0_fold1.pkl.part000",
+          "bytes": 3174289,
+          "sha256": "00a531ec30985e6663288812ea56d41462c16099995f0d29b8195e39001dc22f"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit_drop/models_1.pkl",
+      "kind": "gctrl_drop",
+      "fold": 1,
+      "bytes": 2346875,
+      "sha256": "8b50dcfd43f3696cce53fb8821c01e085c330a85497a924724ccc61e7244cc7f",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit_drop/models_1.pkl.part000",
+          "bytes": 2346875,
+          "sha256": "8b50dcfd43f3696cce53fb8821c01e085c330a85497a924724ccc61e7244cc7f"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl/fold2.pt",
+      "kind": "gctrl_dense",
+      "fold": 2,
+      "bytes": 214500123,
+      "sha256": "77403bccdfc21a957b0ffdf4cd64fdb4dd50ab335ece1b00c9e2aa2993e21a30",
+      "parts": [
+        {
+          "path": "weights/gctrl/fold2.pt.part000",
+          "bytes": 99614720,
+          "sha256": "fb1e07875051c093cc8474117d543692e20af859efbade0c2b81a280c996fc36"
+        },
+        {
+          "path": "weights/gctrl/fold2.pt.part001",
+          "bytes": 99614720,
+          "sha256": "c1b67e9c5e432c090dfcd4bff19e9ebefb577695a2331eb8e25deaaf9eb70c45"
+        },
+        {
+          "path": "weights/gctrl/fold2.pt.part002",
+          "bytes": 15270683,
+          "sha256": "6a246e52415ffc4865ed9f90eedb0c370d323dc272a70e885d596ac1f3865bb8"
+        }
+      ],
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
+      "arm": "gctrl"
+    },
+    {
+      "path": "gctrl_temporal_fit/prior_outer_2.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 2,
+      "bytes": 886721,
+      "sha256": "191b60c02d3a6311adce88903926c4ee0df628fad80c19350cb730099501e4d7",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/prior_outer_2.pkl.part000",
+          "bytes": 886721,
+          "sha256": "191b60c02d3a6311adce88903926c4ee0df628fad80c19350cb730099501e4d7"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/rank_2.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 2,
+      "bytes": 732525,
+      "sha256": "8f11acc7ca2486ea79a16b3e579f744fbdea1d50542cdd7fbbafb02ee8d7ad47",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/rank_2.pkl.part000",
+          "bytes": 732525,
+          "sha256": "8f11acc7ca2486ea79a16b3e579f744fbdea1d50542cdd7fbbafb02ee8d7ad47"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/member0_fold2.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 2,
+      "bytes": 3174744,
+      "sha256": "1b6a16e7b71cb83ecbece25e7702afc99cec3fc9e5c125557b88543bdec5c196",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/member0_fold2.pkl.part000",
+          "bytes": 3174744,
+          "sha256": "1b6a16e7b71cb83ecbece25e7702afc99cec3fc9e5c125557b88543bdec5c196"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit_drop/models_2.pkl",
+      "kind": "gctrl_drop",
+      "fold": 2,
+      "bytes": 2344432,
+      "sha256": "edda4a1da3715252dc1f63cfa3ea5d769a5a7884f74b841a908931fdcc2eb098",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit_drop/models_2.pkl.part000",
+          "bytes": 2344432,
+          "sha256": "edda4a1da3715252dc1f63cfa3ea5d769a5a7884f74b841a908931fdcc2eb098"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl/fold3.pt",
+      "kind": "gctrl_dense",
+      "fold": 3,
+      "bytes": 214500123,
+      "sha256": "fb7c8032197b40e4660cec8a65c2af9af348a7a6192a6d567b33af7a68ad2a47",
+      "parts": [
+        {
+          "path": "weights/gctrl/fold3.pt.part000",
+          "bytes": 99614720,
+          "sha256": "f21e5ce6e4758f173cfeafcfcea843772621f8b2516a4ad39a6c26cb20ee9285"
+        },
+        {
+          "path": "weights/gctrl/fold3.pt.part001",
+          "bytes": 99614720,
+          "sha256": "aec3eaf304d4059fa13054ea2ce71cd0bc27d8495f99f9dc842e0b3182f57629"
+        },
+        {
+          "path": "weights/gctrl/fold3.pt.part002",
+          "bytes": 15270683,
+          "sha256": "47ba3bb0e84a87a62952daf429de753e44860caf480a8b4c80e61dab95bb4333"
+        }
+      ],
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
+      "arm": "gctrl"
+    },
+    {
+      "path": "gctrl_temporal_fit/prior_outer_3.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 3,
+      "bytes": 886730,
+      "sha256": "7e6ac33871e18d3447f4c5b10758d44b201f68d2defe2b2ff7fe618d834c93c2",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/prior_outer_3.pkl.part000",
+          "bytes": 886730,
+          "sha256": "7e6ac33871e18d3447f4c5b10758d44b201f68d2defe2b2ff7fe618d834c93c2"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/rank_3.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 3,
+      "bytes": 732661,
+      "sha256": "29b4b326914317c0e667d4c80d8e562a6f66fa2a10a76f8b0097ba5d48da6c7d",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/rank_3.pkl.part000",
+          "bytes": 732661,
+          "sha256": "29b4b326914317c0e667d4c80d8e562a6f66fa2a10a76f8b0097ba5d48da6c7d"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/member0_fold3.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 3,
+      "bytes": 3174726,
+      "sha256": "a1bfec84c9d14c4bf10f1b0b4fdad466e0fb00e47d0af34af8d9aa23654a543c",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/member0_fold3.pkl.part000",
+          "bytes": 3174726,
+          "sha256": "a1bfec84c9d14c4bf10f1b0b4fdad466e0fb00e47d0af34af8d9aa23654a543c"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit_drop/models_3.pkl",
+      "kind": "gctrl_drop",
+      "fold": 3,
+      "bytes": 1877724,
+      "sha256": "6e6a46db5ed441f19c987125d439b784f0befb8eb89ce370fcc316e08d804f80",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit_drop/models_3.pkl.part000",
+          "bytes": 1877724,
+          "sha256": "6e6a46db5ed441f19c987125d439b784f0befb8eb89ce370fcc316e08d804f80"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl/fold4.pt",
+      "kind": "gctrl_dense",
+      "fold": 4,
+      "bytes": 214500123,
+      "sha256": "5d70386ebfa3a441c3bac792820655c13792ad5ef0c477b53daa6522d4ba4c40",
+      "parts": [
+        {
+          "path": "weights/gctrl/fold4.pt.part000",
+          "bytes": 99614720,
+          "sha256": "fac23ccc9f604fc4875c81a3721a1eb57bc535054379e4b4f6038a95c501a6ec"
+        },
+        {
+          "path": "weights/gctrl/fold4.pt.part001",
+          "bytes": 99614720,
+          "sha256": "c2686d2f3cb590c08320aa6778fd1c47e90a682ea0df651b799050a10e5a9e97"
+        },
+        {
+          "path": "weights/gctrl/fold4.pt.part002",
+          "bytes": 15270683,
+          "sha256": "be611a6508661e615e11c079ff204c5dc524cef83e482945e60f45066721a527"
+        }
+      ],
+      "license": "DINOv3 agreement; non-commercial research training-data terms; see licenses/DINOv3-LICENSE.md",
+      "arm": "gctrl"
+    },
+    {
+      "path": "gctrl_temporal_fit/prior_outer_4.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 4,
+      "bytes": 886850,
+      "sha256": "855cc081afe8391cdb65ebb4ee121802c90fec4af5ed2ef8281e78b56c867116",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/prior_outer_4.pkl.part000",
+          "bytes": 886850,
+          "sha256": "855cc081afe8391cdb65ebb4ee121802c90fec4af5ed2ef8281e78b56c867116"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/rank_4.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 4,
+      "bytes": 733250,
+      "sha256": "56476f3c3574940c9170c205cc2e7214bec26c41b431bbb18688391cdb9c45e9",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/rank_4.pkl.part000",
+          "bytes": 733250,
+          "sha256": "56476f3c3574940c9170c205cc2e7214bec26c41b431bbb18688391cdb9c45e9"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit/member0_fold4.pkl",
+      "kind": "gctrl_scorer",
+      "fold": 4,
+      "bytes": 3175041,
+      "sha256": "a46588fdc5c8621f2a726068a30c5b75286973433bb427af553859aa54b670dc",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit/member0_fold4.pkl.part000",
+          "bytes": 3175041,
+          "sha256": "a46588fdc5c8621f2a726068a30c5b75286973433bb427af553859aa54b670dc"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "gctrl_temporal_fit_drop/models_4.pkl",
+      "kind": "gctrl_drop",
+      "fold": 4,
+      "bytes": 2347592,
+      "sha256": "96300763cc84c0b4aa79a6a0488b178147219de84048bfc108970d336503887d",
+      "parts": [
+        {
+          "path": "weights/gctrl_temporal_fit_drop/models_4.pkl.part000",
+          "bytes": 2347592,
+          "sha256": "96300763cc84c0b4aa79a6a0488b178147219de84048bfc108970d336503887d"
+        }
+      ],
+      "license": "Project-trained LightGBM fit; non-commercial research; see THIRD_PARTY_NOTICES.md"
     }
   ],
-  "total_bytes": 3275082892,
+  "total_bytes": 4382809760,
   "shard_limit_bytes": 99614720
 }

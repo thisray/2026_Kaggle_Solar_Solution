@@ -1,0 +1,19 @@
+{
+  "group": "COMBO",
+  "rules": [
+    {
+      "group": "A",
+      "threshold": 0.45,
+      "owner": "original"
+    },
+    {
+      "group": "D",
+      "systems": [
+        "G_ctrl"
+      ],
+      "iou": 0.65,
+      "support": 1,
+      "score": 0.4
+    }
+  ]
+}
