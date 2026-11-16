@@ -17,8 +17,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8432,
-      "sha256": "f7dcf62e02b5b61a8e28f05d67b0572f295a94b942b6a5751f1b1eece3d5a4ed"
+      "bytes": 7576,
+      "sha256": "38953b946f94b283c0550ad9bc4906cb64ccb35bfa38ae6e05fbc52f12c6cd7d"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -76,6 +76,11 @@
       "sha256": "2177478220b3a18e42e7249109b12bba2eb9a0407614b0183ee6ff4ea2d4dbf8"
     },
     {
+      "path": "configs/w14_candidate.json",
+      "bytes": 510,
+      "sha256": "53d106cb1eb0cda2786430bd14bb3aaef41d71eb19d425204f23bbae56f38481"
+    },
+    {
       "path": "configs/w6_postcal.json",
       "bytes": 260,
       "sha256": "9fe71586dadb2de95d5146266a9dc2567ea92e8cd3bf2a80128c92c54bc2e936"
@@ -112,8 +117,8 @@
     },
     {
       "path": "notebooks/pipeline.ipynb",
-      "bytes": 2951,
-      "sha256": "580c2d8c31942bc5bf6f400290e7ffd2a1d33208308881f039760dd5f375d3be"
+      "bytes": 3222,
+      "sha256": "d9494f93d1481ca56e0195601aee65fddcfdcd26de3745ba385f2e7390730475"
     },
     {
       "path": "requirements.txt",
@@ -137,8 +142,8 @@
     },
     {
       "path": "scripts/demo_w6.py",
-      "bytes": 3237,
-      "sha256": "a4e9bf28ed1267a13ed908bd713313d425233cfa53b5f71e932330766ffdc639"
+      "bytes": 3408,
+      "sha256": "777130286f265cb45bd98f7bfc0f9c1a649310704744d18bdde45102bf4f2e0f"
     },
     {
       "path": "scripts/l2_add_scorer_features.py",
@@ -216,14 +221,24 @@
       "sha256": "9db2c037828f564d27acc1087a0300c91084a7852be9db9ec872886cf5656c38"
     },
     {
+      "path": "scripts/w14_component.py",
+      "bytes": 877,
+      "sha256": "676839465232f5d996553e821034bdb5e261d17ec08d7f218f6c2f9484898954"
+    },
+    {
+      "path": "scripts/w14_projection.py",
+      "bytes": 2881,
+      "sha256": "b4ab26cef6f237a57be5bf5750bf412815c872771eae803faf910a1e7ea9cac8"
+    },
+    {
       "path": "scripts/w1_infer.py",
       "bytes": 3818,
       "sha256": "dc3b17512c2737e98a848df7f697633784e47bf733f1f186ca8812b8c4a553b9"
     },
     {
       "path": "scripts/w6_infer.py",
-      "bytes": 5184,
-      "sha256": "d77d71db294f140c250a8bdeaf43c67fa320689f5055326df87a266b827b6cf1"
+      "bytes": 5404,
+      "sha256": "f8a08b91f13e67c806dd49933f007cc1fc6057a158160de646f56cfa2a63d79b"
     },
     {
       "path": "src/solar/__init__.py",

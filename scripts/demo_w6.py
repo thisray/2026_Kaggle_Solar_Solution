@@ -32,7 +32,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     for name in ('images', 'models', 'cache', 'output'):
         parser.add_argument('--' + name, type=Path, required=True)
-    parser.add_argument('--final', choices=['w6'], default='w6')
+    parser.add_argument('--final', choices=['w6', 'w14'], default='w6')
+    parser.add_argument('--eiou-binarize', action='store_true')
     parser.add_argument('--dense-long2x-tta', action='store_true')
     parser.add_argument('--postcal-w2', action='store_true', required=True)
     parser.add_argument('--device', choices=['cpu', 'cuda'], default='cuda')
@@ -52,6 +53,8 @@ def main():
             command += ['--' + name, str(getattr(args, name).resolve())]
         command += ['--stage', stage, '--final', 'w6', '--dense-long2x-tta',
                     '--postcal-w2', '--device', args.device]
+        if args.eiou_binarize or args.final == 'w14':
+            command.append('--eiou-binarize')
         started = time.monotonic()
         print('STAGE_START', stage, flush=True)
         with (args.cache/(stage+'.log')).open('w') as stream:

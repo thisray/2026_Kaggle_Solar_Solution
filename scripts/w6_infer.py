@@ -32,16 +32,18 @@ def install_dense(arms):
 def main():
     p=argparse.ArgumentParser(allow_abbrev=False)
     for name in ('images','models','cache','output'):p.add_argument('--'+name,type=Path,required=True)
-    p.add_argument('--device',default='cuda');p.add_argument('--postcal-w2',action='store_true')
+    p.add_argument('--eiou-binarize',action='store_true');p.add_argument('--device',default='cuda');p.add_argument('--postcal-w2',action='store_true')
     p.add_argument('--dense-tta-arms',choices=['long2x'],default='long2x')
     p.add_argument('--dense-long2x-tta',action='store_true',help='Four-flip long2x TTA; implied by W6.')
-    p.add_argument('--final',choices=['w6'],default='w6')
+    p.add_argument('--final',choices=['w6','w14'],default='w6')
     p.add_argument('--stage',choices=['dense','support','score','refiner','gctrl_plain_dense','gctrl_dense','gctrl_score','postcal_w2'],required=True)
     a=p.parse_args();arms=a.dense_tta_arms.split(',') if a.dense_tta_arms else []
     assert set(arms)<={'long2x','s05','gong'}
     import rf_infer as rf
     a.cache.mkdir(parents=True,exist_ok=True)
     recipe=dict(dense_tta_arms=arms,postcal_w2=a.postcal_w2)
+    if a.final=='w14':a.eiou_binarize=True
+    if a.eiou_binarize:recipe['eiou_binarize']=True
     marker=a.cache/'W6_RECIPE.json'
     if marker.exists():assert json.loads(marker.read_text())==recipe
     rf.write(marker,recipe)
@@ -76,7 +78,8 @@ def main():
     config=json.loads((ROOT/'configs/w6_postcal.json').read_text())
     for stem in images:
         rf.gate();q,mm,ss=rf.load(a.cache/'w6_refiner'/f'{stem}.pkl')
-        shaped=Projection(None,None,seeds[stem],q,mm,ss).apply(config['rules'][0],scores[stem])
+        from w14_component import project_refiner
+        shaped=project_refiner(q,mm,ss,seeds[stem],scores[stem],Projection,config['rules'][0],a.eiou_binarize)
         assigned=aligned_scores(shaped,baseline[stem],scores[stem])
         out[stem]=keep_consensus(shaped,assigned,{'G_ctrl':support(shaped,gctrl[stem])},config['rules'][1])
     rf.save(a.cache/'w6_predictions.pkl',out);rf.emit(out,a.output)

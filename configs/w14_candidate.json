@@ -1,0 +1,18 @@
+{
+  "candidate": "w14",
+  "base": "w6",
+  "selected_final": "w14",
+  "selected_submission": "58424527",
+  "options": [
+    "--final",
+    "w6",
+    "--dense-long2x-tta",
+    "--postcal-w2",
+    "--eiou-binarize"
+  ],
+  "weights_changed": false,
+  "binarization": "argmax ratio of expected intersection to expected union",
+  "standalone_deployment_gate_passed": false,
+  "status": "final",
+  "selection_basis": "Commander selected W14 based on evidence strength; original standalone delta gate remains unmet"
+}
