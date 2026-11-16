@@ -4,6 +4,8 @@
 
 `70030aa51bc56f082500e89c06c2d58ca64f3de3b8f489e098c21dfa1b7d0c01`
 
+Technical report (4 pages): report/technical_report.pdf
+
 本 repo 包含推論原始碼與訓練權重分片；競賽影像、annotations、GT、預測 CSV 與中間 cache 不隨 repo 發布。
 
 ## 環境與權重
